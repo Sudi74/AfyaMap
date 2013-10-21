@@ -33,6 +33,22 @@
                     -6.787154
                 ]
             }
+        }, 
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tumbi Special Hospital",
+                "address": "Kibaha",
+                "city": "Dar es Salaam",
+                "phone": "+255 22 276 0672"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.28786,
+                    -6.80350
+                ]
+            }
         },
         {
             "type": "Feature",
